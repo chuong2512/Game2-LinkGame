@@ -1,0 +1,288 @@
+
+gameplay1.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+cun-con
+  rotate: false
+  xy: 2, 2
+  size: 996, 664
+  orig: 996, 664
+  offset: 0, 0
+  index: -1
+khung2
+  rotate: false
+  xy: 2, 668
+  size: 529, 208
+  orig: 529, 208
+  offset: 0, 0
+  index: -1
+tho con
+  rotate: false
+  xy: 533, 668
+  size: 386, 284
+  orig: 386, 284
+  offset: 0, 0
+  index: -1
+khung-hieu-ung
+  rotate: false
+  xy: 2, 878
+  size: 506, 88
+  orig: 506, 88
+  offset: 0, 0
+  index: -1
+tien xu
+  rotate: false
+  xy: 2, 968
+  size: 456, 49
+  orig: 456, 49
+  offset: 0, 0
+  index: -1
+numberprepare
+  rotate: false
+  xy: 533, 954
+  size: 165, 68
+  orig: 165, 68
+  offset: 0, 0
+  index: -1
+tiep-tuc
+  rotate: false
+  xy: 700, 954
+  size: 167, 67
+  orig: 167, 67
+  offset: 0, 0
+  index: -1
+dong-xu
+  rotate: false
+  xy: 921, 668
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+khung-chon
+  rotate: false
+  xy: 921, 769
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+cheo-1
+  rotate: false
+  xy: 921, 865
+  size: 83, 78
+  orig: 83, 78
+  offset: 0, 0
+  index: -1
+luoi-hai
+  rotate: false
+  xy: 921, 945
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+doc
+  rotate: false
+  xy: 460, 968
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+ngang
+  rotate: false
+  xy: 1000, 2
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+
+gameplay2.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+songoku
+  rotate: false
+  xy: 2, 2
+  size: 846, 564
+  orig: 846, 564
+  offset: 0, 0
+  index: -1
+khung-pause
+  rotate: false
+  xy: 2, 568
+  size: 483, 365
+  orig: 483, 365
+  offset: 0, 0
+  index: -1
+chim bay
+  rotate: false
+  xy: 487, 568
+  size: 456, 178
+  orig: 456, 178
+  offset: 0, 0
+  index: -1
+mat-troi
+  rotate: false
+  xy: 487, 748
+  size: 239, 239
+  orig: 239, 239
+  offset: 0, 0
+  index: -1
+endgame
+  rotate: false
+  xy: 2, 935
+  size: 409, 77
+  orig: 409, 77
+  offset: 0, 0
+  index: -1
+anh-sang
+  rotate: false
+  xy: 850, 2
+  size: 171, 177
+  orig: 171, 177
+  offset: 0, 0
+  index: -1
+ava
+  rotate: false
+  xy: 850, 181
+  size: 167, 157
+  orig: 167, 157
+  offset: 0, 0
+  index: -1
+dog-time
+  rotate: false
+  xy: 728, 748
+  size: 268, 96
+  orig: 268, 96
+  offset: 0, 0
+  index: -1
+prepare
+  rotate: false
+  xy: 728, 846
+  size: 256, 89
+  orig: 256, 89
+  offset: 0, 0
+  index: -1
+o-vat-pham1
+  rotate: false
+  xy: 850, 340
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+start
+  rotate: false
+  xy: 728, 937
+  size: 197, 77
+  orig: 197, 77
+  offset: 0, 0
+  index: -1
+tiep-tuc-chon
+  rotate: false
+  xy: 850, 491
+  size: 167, 67
+  orig: 167, 67
+  offset: 0, 0
+  index: -1
+luoi-hai-full
+  rotate: false
+  xy: 945, 568
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+bu-nhjn
+  rotate: false
+  xy: 413, 935
+  size: 67, 80
+  orig: 67, 80
+  offset: 0, 0
+  index: -1
+bu-nhjn-full
+  rotate: false
+  xy: 945, 644
+  size: 67, 80
+  orig: 67, 80
+  offset: 0, 0
+  index: -1
+cheo-2
+  rotate: false
+  xy: 927, 937
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+
+gameplay3.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+thanh-thoi-gian
+  rotate: false
+  xy: 2, 2
+  size: 673, 45
+  orig: 673, 45
+  offset: 0, 0
+  index: -1
+thanh-thoi-gian-full
+  rotate: false
+  xy: 2, 49
+  size: 673, 45
+  orig: 673, 45
+  offset: 0, 0
+  index: -1
+o-hoa-qua
+  rotate: false
+  xy: 2, 96
+  size: 661, 661
+  orig: 661, 661
+  offset: 0, 0
+  index: -1
+bu-nhin-copy
+  rotate: false
+  xy: 665, 96
+  size: 241, 91
+  orig: 241, 91
+  offset: 0, 0
+  index: -1
+co
+  rotate: false
+  xy: 665, 189
+  size: 156, 67
+  orig: 156, 67
+  offset: 0, 0
+  index: -1
+co-chon
+  rotate: false
+  xy: 823, 189
+  size: 156, 67
+  orig: 156, 67
+  offset: 0, 0
+  index: -1
+may-xuc
+  rotate: false
+  xy: 908, 96
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+may-xuc-full
+  rotate: false
+  xy: 665, 258
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+binh-tuoi-nuoc
+  rotate: false
+  xy: 665, 314
+  size: 77, 59
+  orig: 77, 59
+  offset: 0, 0
+  index: -1
+binh-tuoi-nuoc-full
+  rotate: false
+  xy: 744, 314
+  size: 77, 59
+  orig: 77, 59
+  offset: 0, 0
+  index: -1

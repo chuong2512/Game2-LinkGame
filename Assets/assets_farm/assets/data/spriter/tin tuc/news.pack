@@ -1,0 +1,117 @@
+
+tin tuc1.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+than
+  rotate: false
+  xy: 2, 2
+  size: 177, 134
+  orig: 177, 134
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 2, 138
+  size: 106, 91
+  orig: 106, 91
+  offset: 0, 0
+  index: -1
+bang-go
+  rotate: false
+  xy: 181, 2
+  size: 139, 90
+  orig: 139, 90
+  offset: 0, 0
+  index: -1
+ca-rot-1
+  rotate: false
+  xy: 322, 2
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+tay-4
+  rotate: false
+  xy: 110, 138
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+tay-3
+  rotate: false
+  xy: 404, 2
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+tai-2
+  rotate: false
+  xy: 181, 94
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1
+tai-1
+  rotate: false
+  xy: 110, 201
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+Tin-tuc-2
+  rotate: false
+  xy: 255, 94
+  size: 105, 47
+  orig: 105, 47
+  offset: 0, 0
+  index: -1
+Tin-tuc-1
+  rotate: false
+  xy: 362, 94
+  size: 105, 47
+  orig: 105, 47
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 255, 143
+  size: 126, 45
+  orig: 126, 45
+  offset: 0, 0
+  index: -1
+mat-2
+  rotate: false
+  xy: 255, 190
+  size: 84, 36
+  orig: 84, 36
+  offset: 0, 0
+  index: -1
+mat-1
+  rotate: false
+  xy: 383, 143
+  size: 84, 36
+  orig: 84, 36
+  offset: 0, 0
+  index: -1
+tay-1
+  rotate: false
+  xy: 181, 153
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+ca-rot-2
+  rotate: false
+  xy: 181, 189
+  size: 65, 33
+  orig: 65, 33
+  offset: 0, 0
+  index: -1
+tay-2
+  rotate: false
+  xy: 404, 65
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAvatar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Avatar>
+    <id>1</id>
+    <name>Ace</name>
+    <description>Increase 5 seconds</description>
+    <gold>900</gold>
+    <activeMoney>true</activeMoney>
+    <gem>0</gem>
+    <timeeffect>24</timeeffect>
+    <isPurchased>false</isPurchased>
+  </Avatar>
+  <Avatar>
+    <id>2</id>
+    <name>Chopper</name>
+    <description>Increase 10 seconds</description>
+    <gold>1400</gold>
+    <activeMoney>true</activeMoney>
+    <gem>0</gem>
+    <timeeffect>24</timeeffect>
+    <isPurchased>false</isPurchased>
+  </Avatar>
+  <Avatar>
+    <id>3</id>
+    <name>Franky</name>
+    <description>Increase 15 seconds</description>
+    <gold>1500</gold>
+    <activeMoney>true</activeMoney>
+    <gem>0</gem>
+    <timeeffect>24</timeeffect>
+    <isPurchased>false</isPurchased>
+  </Avatar>
+  <Avatar>
+    <id>4</id>
+    <name>Kaito</name>
+    <description>Increase 20% of experiences</description>
+    <gold>2100</gold>
+    <activeMoney>true</activeMoney>
+    <gem>0</gem>
+    <timeeffect>24</timeeffect>
+    <isPurchased>false</isPurchased>
+  </Avatar>
+  <Avatar>
+    <id>5</id>
+    <name>Kimtan</name>
+    <description>Increase 30% of received gold after one match</description>
+    <gold>2100</gold>
+    <activeMoney>true</activeMoney>
+    <gem>0</gem>
+    <timeeffect>24</timeeffect>
+    <isPurchased>false</isPurchased>
+  </Avatar>
+  <Avatar>
+    <id>6</id>
+    <name>Len</name>
+    <description>Increase 60% of experiences</description>
+    <gold>2700</gold>
+    <activeMoney>true</activeMoney>
+    <gem>0</gem>
+    <timeeffect>24</timeeffect>
+    <isPurchased>false</isPurchased>
+  </Avatar>
+  <Avatar>
+    <id>7</id>
+    <name>Luffy</name>
+    <description>Increase 30% of gold after one match</description>
+    <gold>3000</gold>
+    <activeMoney>true</activeMoney>
+    <gem>0</gem>
+    <timeeffect>24</timeeffect>
+    <isPurchased>false</isPurchased>
+  </Avatar>
+  <Avatar>
+    <id>8</id>
+    <name>Luka</name>
+    <description>Increase 50% of gold after one match</description>
+    <gold>3900</gold>
+    <activeMoney>true</activeMoney>
+    <gem>0</gem>
+    <timeeffect>24</timeeffect>
+    <isPurchased>false</isPurchased>
+  </Avatar>
+  <Avatar>
+    <id>9</id>
+    <name>Miku</name>
+    <description>Increase 80% of received gold after one match</description>
+    <gold>4000</gold>
+    <activeMoney>true</activeMoney>
+    <gem>0</gem>watering-can
+    <timeeffect>24</timeeffect>
+    <isPurchased>false</isPurchased>
+  </Avatar>
+  <Avatar>
+    <id>10</id>
+    <name>Nami</name>
+    <description>Start match with 3 special fruits</description>
+    <gold>0</gold>
+    <activeMoney>false</activeMoney>
+    <gem>5</gem>
+    <timeeffect>0</timeeffect>Glosbe
+    <isPurchased>false</isPurchased>
+  </Avatar>
+  <Avatar>
+    <id>11</id>
+    <name>Rin</name>
+    <description>Start match with 50000 points</description>
+    <gold>0</gold>
+    <activeMoney>false</activeMoney>
+    <gem>11</gem>
+    <timeeffect>0</timeeffect>
+    <isPurchased>false</isPurchased>
+  </Avatar>
+  <Avatar>
+    <id>12</id>
+    <name>Robin</name>
+    <description>Left one kind of fruit in match</description>
+    <gold>0</gold>
+    <activeMoney>false</activeMoney>
+    <gem>15</gem>
+    <timeeffect>0</timeeffect>
+    <isPurchased>false</isPurchased>
+  </Avatar>
+</ArrayOfAvatar>

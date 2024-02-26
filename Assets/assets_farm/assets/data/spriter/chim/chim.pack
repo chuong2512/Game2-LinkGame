@@ -1,0 +1,33 @@
+
+chim1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Group-11
+  rotate: false
+  xy: 2, 2
+  size: 153, 170
+  orig: 153, 170
+  offset: 0, 0
+  index: -1
+Layer-47
+  rotate: false
+  xy: 157, 2
+  size: 58, 82
+  orig: 58, 82
+  offset: 0, 0
+  index: -1
+Layer-49
+  rotate: false
+  xy: 157, 86
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+Layer-51
+  rotate: false
+  xy: 157, 144
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1

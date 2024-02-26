@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Item>
+      <id>1</id>
+      <name>Máy xúc</name>
+      <gem>9</gem>
+      <description>Ăn liên tiếp dâu tây sẽ có máy ủi thu hoạch hoa quả</description>
+    </Item>
+    <Item>
+      <id>2</id>
+      <name>Bình tưới cây</name>
+      <gem>10</gem>
+      <description>Thu hoạch tất cả cà rốt khi ăn liên tiếp cà tím</description>
+    </Item>
+    <Item>
+      <id>3</id>
+      <name>Lưỡi hái</name>
+      <gem>11</gem>
+      <description>Ăn liên tiếp cà chua sẽ có lưỡi hái thu hoạch hoa quả</description>
+    </Item>
+    <Item>
+      <id>4</id>
+      <name>Bù nhìn rơm</name>
+      <gem>12</gem>
+      <description>Ăn liên tiếp 2 lần cà rốt sẽ có bù nhìn thu hoạch hoa quả</description>
+    </Item>
+</ArrayOfItem>

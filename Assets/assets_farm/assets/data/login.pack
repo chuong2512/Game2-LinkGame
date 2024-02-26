@@ -1,0 +1,82 @@
+
+menulogin1.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+khung-log-in
+  rotate: false
+  xy: 2, 2
+  size: 518, 390
+  orig: 518, 390
+  offset: 0, 0
+  index: -1
+login-fb
+  rotate: false
+  xy: 522, 2
+  size: 285, 63
+  orig: 285, 63
+  offset: 0, 0
+  index: -1
+login-fb-2
+  rotate: false
+  xy: 522, 67
+  size: 285, 63
+  orig: 285, 63
+  offset: 0, 0
+  index: -1
+khung-tk-mk
+  rotate: false
+  xy: 522, 132
+  size: 306, 54
+  orig: 306, 54
+  offset: 0, 0
+  index: -1
+dang-nhap
+  rotate: false
+  xy: 522, 188
+  size: 167, 67
+  orig: 167, 67
+  offset: 0, 0
+  index: -1
+dang-nhap-2
+  rotate: false
+  xy: 522, 257
+  size: 167, 67
+  orig: 167, 67
+  offset: 0, 0
+  index: -1
+dang-ky
+  rotate: false
+  xy: 691, 188
+  size: 156, 67
+  orig: 156, 67
+  offset: 0, 0
+  index: -1
+dang-ky-2
+  rotate: false
+  xy: 691, 257
+  size: 156, 67
+  orig: 156, 67
+  offset: 0, 0
+  index: -1
+nhap-lai-mk
+  rotate: false
+  xy: 809, 2
+  size: 170, 35
+  orig: 170, 35
+  offset: 0, 0
+  index: -1
+mat-khau
+  rotate: false
+  xy: 809, 67
+  size: 136, 40
+  orig: 136, 40
+  offset: 0, 0
+  index: -1
+tai-khoan
+  rotate: false
+  xy: 830, 132
+  size: 141, 32
+  orig: 141, 32
+  offset: 0, 0
+  index: -1

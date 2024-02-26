@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 57f44e8f4f540e24b8c17d36054d8dd2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mallory Compact
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a1f67542cd72b89479359e35d047e93a, type: 3}
+  - {fileID: 12800000, guid: 53d34596454585b48b841df8d862083d, type: 3}
+  - {fileID: 12800000, guid: 3590ed8f9885e284096688db8ed74a0d, type: 3}
+  - {fileID: 12800000, guid: f55554caabbd2ab419201c1b7a8ed650, type: 3}
+  - {fileID: 12800000, guid: 70418c21e03dd214d9bf5070b7d5fbdf, type: 3}
+  - {fileID: 12800000, guid: 653c99cf220b7be4bac15305b36333b4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

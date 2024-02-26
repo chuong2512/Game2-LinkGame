@@ -1,0 +1,96 @@
+
+su kien1.png
+format: RGBA8888
+filter: Nearest,Linear
+repeat: none
+bong
+  rotate: false
+  xy: 2, 2
+  size: 197, 43
+  orig: 197, 43
+  offset: 0, 0
+  index: -1
+bong-2
+  rotate: false
+  xy: 201, 2
+  size: 197, 43
+  orig: 197, 43
+  offset: 0, 0
+  index: -1
+bang
+  rotate: false
+  xy: 2, 47
+  size: 130, 138
+  orig: 130, 138
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 134, 47
+  size: 123, 126
+  orig: 123, 126
+  offset: 0, 0
+  index: -1
+Su-kien-2
+  rotate: false
+  xy: 2, 187
+  size: 92, 43
+  orig: 92, 43
+  offset: 0, 0
+  index: -1
+Su-kien-1
+  rotate: false
+  xy: 134, 175
+  size: 92, 43
+  orig: 92, 43
+  offset: 0, 0
+  index: -1
+mat-2
+  rotate: false
+  xy: 259, 47
+  size: 91, 42
+  orig: 91, 42
+  offset: 0, 0
+  index: -1
+mat-1
+  rotate: false
+  xy: 259, 91
+  size: 91, 42
+  orig: 91, 42
+  offset: 0, 0
+  index: -1
+chan
+  rotate: false
+  xy: 259, 135
+  size: 79, 41
+  orig: 79, 41
+  offset: 0, 0
+  index: -1
+hoa
+  rotate: false
+  xy: 259, 178
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+canh-1
+  rotate: false
+  xy: 340, 135
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+canh-2
+  rotate: false
+  xy: 314, 178
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+long
+  rotate: false
+  xy: 134, 220
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1

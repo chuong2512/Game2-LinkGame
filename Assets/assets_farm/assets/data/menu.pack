@@ -1,0 +1,52 @@
+
+menu1.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+tiasang
+  rotate: false
+  xy: 2, 2
+  size: 522, 926
+  orig: 522, 926
+  offset: 0, 0
+  index: -1
+canhcoixay
+  rotate: false
+  xy: 526, 2
+  size: 176, 171
+  orig: 176, 171
+  offset: 0, 0
+  index: -1
+anhsao
+  rotate: false
+  xy: 2, 930
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+
+menu2.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+chu
+  rotate: false
+  xy: 2, 2
+  size: 730, 369
+  orig: 730, 369
+  offset: 0, 0
+  index: -1
+co-2
+  rotate: false
+  xy: 2, 373
+  size: 728, 206
+  orig: 728, 206
+  offset: 0, 0
+  index: -1
+co-1
+  rotate: false
+  xy: 2, 581
+  size: 720, 111
+  orig: 720, 111
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 2b210b90357b72e4fb552a92239a555e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mallory XCondensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 329ad4d3a15826c40bda3e7cfa7b4c6e, type: 3}
+  - {fileID: 12800000, guid: f3c732d1b060d154485822df2d1d09ac, type: 3}
+  - {fileID: 12800000, guid: 1541c3d13cf3c964984ba4f9454e4987, type: 3}
+  - {fileID: 12800000, guid: b9e82eeb5c3234246b66a700bca7b5ee, type: 3}
+  - {fileID: 12800000, guid: 816eab055f3934946b01315edb5520da, type: 3}
+  - {fileID: 12800000, guid: 000da06fc3a44114ea476a7a83f05bad, type: 3}
+  - {fileID: 12800000, guid: 7624137b83844654a8459492c68496f3, type: 3}
+  - {fileID: 12800000, guid: 85115274075f0af4fa05af61503b1226, type: 3}
+  - {fileID: 12800000, guid: 56d1129341764d44b95840d6a120d16b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

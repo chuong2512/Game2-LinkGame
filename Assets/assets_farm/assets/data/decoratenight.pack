@@ -1,0 +1,40 @@
+
+decoratenight1.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+buom-3
+  rotate: false
+  xy: 2, 2
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+buom-2
+  rotate: false
+  xy: 2, 204
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+buom-1
+  rotate: false
+  xy: 504, 2
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+canh-coi-xay
+  rotate: false
+  xy: 504, 204
+  size: 280, 274
+  orig: 280, 274
+  offset: 0, 0
+  index: -1
+bu-nhin
+  rotate: false
+  xy: 786, 204
+  size: 231, 249
+  orig: 231, 249
+  offset: 0, 0
+  index: -1

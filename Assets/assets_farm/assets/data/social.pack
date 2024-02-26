@@ -1,0 +1,225 @@
+
+social1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+khung-social-1
+  rotate: false
+  xy: 2, 2
+  size: 638, 795
+  orig: 638, 795
+  offset: 0, 0
+  index: -1
+khung-thuong
+  rotate: false
+  xy: 2, 799
+  size: 471, 130
+  orig: 471, 130
+  offset: 0, 0
+  index: -1
+nut-choi
+  rotate: false
+  xy: 642, 2
+  size: 189, 113
+  orig: 189, 113
+  offset: 0, 0
+  index: -1
+nut-choi-chon
+  rotate: false
+  xy: 833, 2
+  size: 189, 113
+  orig: 189, 113
+  offset: 0, 0
+  index: -1
+nut-TOP
+  rotate: false
+  xy: 642, 117
+  size: 188, 99
+  orig: 188, 99
+  offset: 0, 0
+  index: -1
+nut-TOP-chon
+  rotate: false
+  xy: 832, 117
+  size: 188, 99
+  orig: 188, 99
+  offset: 0, 0
+  index: -1
+nut-Ban-Be-chon
+  rotate: false
+  xy: 2, 931
+  size: 188, 87
+  orig: 188, 87
+  offset: 0, 0
+  index: -1
+but-Ban-Be
+  rotate: false
+  xy: 192, 931
+  size: 188, 87
+  orig: 188, 87
+  offset: 0, 0
+  index: -1
+nut-infor
+  rotate: false
+  xy: 475, 799
+  size: 114, 103
+  orig: 114, 103
+  offset: 0, 0
+  index: -1
+nut-infor-2
+  rotate: false
+  xy: 475, 904
+  size: 114, 103
+  orig: 114, 103
+  offset: 0, 0
+  index: -1
+shop
+  rotate: false
+  xy: 642, 218
+  size: 103, 111
+  orig: 103, 111
+  offset: 0, 0
+  index: -1
+shop-chon
+  rotate: false
+  xy: 747, 218
+  size: 103, 111
+  orig: 103, 111
+  offset: 0, 0
+  index: -1
+tin-nhan
+  rotate: false
+  xy: 852, 218
+  size: 107, 98
+  orig: 107, 98
+  offset: 0, 0
+  index: -1
+tin-nhan-chon
+  rotate: false
+  xy: 642, 331
+  size: 107, 98
+  orig: 107, 98
+  offset: 0, 0
+  index: -1
+hom-do
+  rotate: false
+  xy: 642, 431
+  size: 96, 99
+  orig: 96, 99
+  offset: 0, 0
+  index: -1
+hom-do-chon
+  rotate: false
+  xy: 740, 431
+  size: 96, 99
+  orig: 96, 99
+  offset: 0, 0
+  index: -1
+cai-dat
+  rotate: false
+  xy: 751, 331
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+cai-dat-chon
+  rotate: false
+  xy: 848, 331
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+sao
+  rotate: false
+  xy: 382, 931
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+huy-chuong-vang
+  rotate: false
+  xy: 945, 331
+  size: 62, 76
+  orig: 62, 76
+  offset: 0, 0
+  index: -1
+huy-chuong-dong
+  rotate: false
+  xy: 838, 431
+  size: 62, 76
+  orig: 62, 76
+  offset: 0, 0
+  index: -1
+huy-chuong-cui-bap
+  rotate: false
+  xy: 902, 431
+  size: 62, 76
+  orig: 62, 76
+  offset: 0, 0
+  index: -1
+huy-chuong-bac
+  rotate: false
+  xy: 642, 532
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+toi
+  rotate: false
+  xy: 961, 218
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+
+social2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+o-TOp
+  rotate: false
+  xy: 2, 2
+  size: 511, 595
+  orig: 511, 595
+  offset: 0, 0
+  index: -1
+khung-thong-tin
+  rotate: false
+  xy: 515, 2
+  size: 495, 558
+  orig: 495, 558
+  offset: 0, 0
+  index: -1
+khung-huy-chuong-vang
+  rotate: false
+  xy: 2, 599
+  size: 471, 130
+  orig: 471, 130
+  offset: 0, 0
+  index: -1
+khung-huy-chuong-dong
+  rotate: false
+  xy: 2, 731
+  size: 471, 130
+  orig: 471, 130
+  offset: 0, 0
+  index: -1
+khung-huy-chuong-bac
+  rotate: false
+  xy: 2, 863
+  size: 471, 130
+  orig: 471, 130
+  offset: 0, 0
+  index: -1
+
+social3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+o-ban-be
+  rotate: false
+  xy: 2, 2
+  size: 511, 595
+  orig: 511, 595
+  offset: 0, 0
+  index: -1

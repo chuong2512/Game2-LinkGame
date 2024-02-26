@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: f8a4744c6880cd64ba96985215128fbf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mallory
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 340be811c3caccc4189694b77ff173ba, type: 3}
+  - {fileID: 12800000, guid: e44ae69959b97b341ba3170c9bc8018c, type: 3}
+  - {fileID: 12800000, guid: 01398b7cda41c9d4691a97bd2e2deb87, type: 3}
+  - {fileID: 12800000, guid: 62eef487cff10404fb5dc700507880c7, type: 3}
+  - {fileID: 12800000, guid: 226c308ca1db25141be0c9d9c0a793e4, type: 3}
+  - {fileID: 12800000, guid: 76a5fdc771b1c2448aeeffc641276743, type: 3}
+  - {fileID: 12800000, guid: e10e09a36d53c3747bc182a60d121397, type: 3}
+  - {fileID: 12800000, guid: d58c31e1a4ec641429b1b08647bb022d, type: 3}
+  - {fileID: 12800000, guid: 105399956ff03ec4b87b938332715f0d, type: 3}
+  - {fileID: 12800000, guid: 35967b54483969b44a2e1b0485213237, type: 3}
+  - {fileID: 12800000, guid: b004576be7ea1714684ed647bf6c54b2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

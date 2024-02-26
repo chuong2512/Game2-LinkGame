@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 485efa39d97edd240a995e60c4301f51, type: 3}
+  m_Name: avatars
+  m_EditorClassIdentifier: 
+  avatars:
+  - id: 1
+    name: Ace
+    description: Increase 5 seconds
+    gold: 150
+    gem: 0
+    timeeffect: 24
+    sprite: {fileID: 21300000, guid: f8affdf1901b9b4479b9407e141c053e, type: 3}
+    bonus:
+      exp: 0
+      gold: 0
+      time: 5
+      specicalBlock: 0
+      startScore: 0
+      exludeBlock: 0
+  - id: 2
+    name: Chopper
+    description: Increase 10 seconds
+    gold: 270
+    gem: 0
+    timeeffect: 24
+    sprite: {fileID: 21300002, guid: f8affdf1901b9b4479b9407e141c053e, type: 3}
+    bonus:
+      exp: 0
+      gold: 0
+      time: 10
+      specicalBlock: 0
+      startScore: 0
+      exludeBlock: 0
+  - id: 3
+    name: Franky
+    description: Increase 15 seconds
+    gold: 390
+    gem: 0
+    timeeffect: 24
+    sprite: {fileID: 21300004, guid: f8affdf1901b9b4479b9407e141c053e, type: 3}
+    bonus:
+      exp: 0
+      gold: 0
+      time: 15
+      specicalBlock: 0
+      startScore: 0
+      exludeBlock: 0
+  - id: 4
+    name: Kaito
+    description: Increase 20% of experiences
+    gold: 90
+    gem: 0
+    timeeffect: 24
+    sprite: {fileID: 21300006, guid: f8affdf1901b9b4479b9407e141c053e, type: 3}
+    bonus:
+      exp: 20
+      gold: 0
+      time: 0
+      specicalBlock: 0
+      startScore: 0
+      exludeBlock: 0
+  - id: 5
+    name: Kimtan
+    description: Increase 40% of received gold after one match
+    gold: 150
+    gem: 0
+    timeeffect: 24
+    sprite: {fileID: 21300026, guid: f8affdf1901b9b4479b9407e141c053e, type: 3}
+    bonus:
+      exp: 40
+      gold: 0
+      time: 0
+      specicalBlock: 0
+      startScore: 0
+      exludeBlock: 0
+  - id: 6
+    name: Len
+    description: Increase 60% of experiences
+    gold: 210
+    gem: 0
+    timeeffect: 24
+    sprite: {fileID: 21300008, guid: f8affdf1901b9b4479b9407e141c053e, type: 3}
+    bonus:
+      exp: 60
+      gold: 0
+      time: 0
+      specicalBlock: 0
+      startScore: 0
+      exludeBlock: 0
+  - id: 7
+    name: Luffy
+    description: Increase 30% of gold after one match
+    gold: 210
+    gem: 0
+    timeeffect: 24
+    sprite: {fileID: 21300010, guid: f8affdf1901b9b4479b9407e141c053e, type: 3}
+    bonus:
+      exp: 0
+      gold: 30
+      time: 0
+      specicalBlock: 0
+      startScore: 0
+      exludeBlock: 0
+  - id: 8
+    name: Luka
+    description: Increase 50% of gold after one match
+    gold: 300
+    gem: 0
+    timeeffect: 24
+    sprite: {fileID: 21300012, guid: f8affdf1901b9b4479b9407e141c053e, type: 3}
+    bonus:
+      exp: 0
+      gold: 50
+      time: 0
+      specicalBlock: 0
+      startScore: 0
+      exludeBlock: 0
+  - id: 9
+    name: Miku
+    description: Increase 80% of received gold after one match
+    gold: 450
+    gem: 0
+    timeeffect: 24
+    sprite: {fileID: 21300014, guid: f8affdf1901b9b4479b9407e141c053e, type: 3}
+    bonus:
+      exp: 0
+      gold: 0
+      time: 0
+      specicalBlock: 3
+      startScore: 0
+      exludeBlock: 0
+  - id: 10
+    name: Nami
+    description: Start match with 3 special fruits
+    gold: 400
+    gem: 0
+    timeeffect: 0
+    sprite: {fileID: 21300028, guid: f8affdf1901b9b4479b9407e141c053e, type: 3}
+    bonus:
+      exp: 0
+      gold: 0
+      time: 0
+      specicalBlock: 0
+      startScore: 500000
+      exludeBlock: 0
+  - id: 11
+    name: Rin
+    description: Start match with one lesser fruit.
+    gold: 230
+    gem: 0
+    timeeffect: 0
+    sprite: {fileID: 21300016, guid: f8affdf1901b9b4479b9407e141c053e, type: 3}
+    bonus:
+      exp: 0
+      gold: 0
+      time: 0
+      specicalBlock: 0
+      startScore: 0
+      exludeBlock: 1
+  - id: 12
+    name: Robin
+    description: Start match with one lesser fruit.
+    gold: 350
+    gem: 0
+    timeeffect: 0
+    sprite: {fileID: 21300018, guid: f8affdf1901b9b4479b9407e141c053e, type: 3}
+    bonus:
+      exp: 0
+      gold: 0
+      time: 0
+      specicalBlock: 0
+      startScore: 0
+      exludeBlock: 2
+  - id: 13
+    name: 0
+    description: 
+    gold: 0
+    gem: 0
+    timeeffect: 0
+    sprite: {fileID: 21300000, guid: 6c812efe5d1aa7b4db65f82d3d2ad8d8, type: 3}
+    bonus:
+      exp: 0
+      gold: 0
+      time: 0
+      specicalBlock: 0
+      startScore: 0
+      exludeBlock: 0

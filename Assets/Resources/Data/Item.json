@@ -1,0 +1,27 @@
+ 
+ [
+    {
+      "id" : 1,
+      "name" : "Máy xúc",
+      "gem" : 9,
+      "description" : "Ăn liên tiếp dâu tây sẽ có máy ủi hỗ trợ thu hoạch quả"
+    },
+    {
+      "id" : 2,
+      "name" : "Lưỡi hái",
+      "gem" : 11,
+      "description" : "Ăn liên tiếp cà chua sẽ có lưỡi hái hỗ trợ thu hoạch quả"
+    },
+    {
+      "id" : 3,
+      "name" : "Bình tưới cây",
+      "gem" : 10,
+      "description" : "Ăn liên tiếp cà tím, cà rốt sẽ tự động thu hoạch"
+    },
+    {
+      "id" : 4,
+      "name" : "Bù nhìn rơm",
+      "gem" : 12,
+      "description" : "Thu hoạch nhanh chóng với sự hỗ trợ của bù nhìn rơm"
+    }
+  ]

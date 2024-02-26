@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: cf1c862bba4d3944fb2563e32a47169b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mallory Narrow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d8a3c01d33e82be4eab7432056997b53, type: 3}
+  - {fileID: 12800000, guid: cb3251cc463e876478df2876c92c7ee7, type: 3}
+  - {fileID: 12800000, guid: 14aebac06dde459479e4e5a309bf7524, type: 3}
+  - {fileID: 12800000, guid: 5c6014469703026428a33234a3856aaa, type: 3}
+  - {fileID: 12800000, guid: 53d6402ad4d19ed4585e3f970bff9b56, type: 3}
+  - {fileID: 12800000, guid: 0dbf9df748c1dfd42b3523c5d5d4738d, type: 3}
+  - {fileID: 12800000, guid: 206d892a3e561a6479959d66d8e63dc1, type: 3}
+  - {fileID: 12800000, guid: 569458a3468627345b9f8d2a0c9dfaf3, type: 3}
+  - {fileID: 12800000, guid: 251a0d0598f94db4ea540e42d3b13746, type: 3}
+  - {fileID: 12800000, guid: da283ebc7a0792d4181a7a8f6eb1decd, type: 3}
+  - {fileID: 12800000, guid: e70149e587d62254ab31015bfd610e86, type: 3}
+  - {fileID: 12800000, guid: 8e27bf1fe1c0d8543957bd4ed26f0ded, type: 3}
+  - {fileID: 12800000, guid: b99629f87b4fe3f4a8dac9c8798ceff4, type: 3}
+  - {fileID: 12800000, guid: 615e405a68d6f7247a704dd8b93023bc, type: 3}
+  - {fileID: 12800000, guid: 28903400775e67b419d700da747bf747, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

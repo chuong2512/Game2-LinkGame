@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBlock xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Block>
+      <id>1</id>
+      <name>Cà chua</name>
+      <score>100</score>
+      <condition>false</condition>
+      <scoreCondition>0</scoreCondition>
+      <percent>20</percent>
+    </Block>
+    <Block>
+      <id>2</id>
+      <name>Cà rốt</name>
+      <score>100</score>
+      <condition>false</condition>
+      <scoreCondition>0</scoreCondition>
+      <percent>20</percent>
+    </Block>
+    <Block>
+      <id>3</id>
+      <name>Dâu tay</name>
+      <score>100</score>
+      <condition>false</condition>
+      <scoreCondition>0</scoreCondition>
+      <percent>20</percent>
+    </Block>
+    <Block>
+      <id>4</id>
+      <name>Hành tím</name>
+      <score>100</score>
+      <condition>false</condition>
+      <scoreCondition>0</scoreCondition>
+      <percent>20</percent>
+    </Block>
+    <Block>
+      <id>5</id>
+      <name>Táo</name>
+      <score>100</score>
+      <condition>false</condition>
+      <scoreCondition>0</scoreCondition>
+      <percent>20</percent>
+    </Block>
+    <Block>
+      <id>6</id>
+      <name>Bí ngô</name>
+      <score>250</score>
+      <condition>true</condition>
+      <scoreCondition>50000</scoreCondition>
+      <percent>16.67</percent>
+    </Block>
+    <Block>
+      <id>7</id>
+      <name>Ngô</name>
+      <score>250</score>
+      <condition>true</condition>
+      <scoreCondition>50000</scoreCondition>
+      <percent>14.28</percent>
+    </Block>
+    <Block>
+      <id>8</id>
+      <name>Cà tím</name>
+      <score>350</score>
+      <condition>true</condition>
+      <scoreCondition>100000</scoreCondition>
+      <percent>12.50</percent>
+    </Block>
+    <Block>
+      <id>9</id>
+      <name>Dứa</name>
+      <score>350</score>
+      <condition>true</condition>
+      <scoreCondition>200000</scoreCondition>
+      <percent>11100</percent>
+    </Block>
+    <Block>
+      <id>10</id>
+      <name>Ớt</name>
+      <score>1000</score>
+      <condition>true</condition>
+      <scoreCondition>450000</scoreCondition>
+      <percent>10</percent>
+    </Block>
+</ArrayOfBlock>

@@ -1,0 +1,176 @@
+
+setup1.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+khung-tin-nhan
+  rotate: false
+  xy: 2, 2
+  size: 592, 795
+  orig: 592, 795
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 799
+  size: 363, 217
+  orig: 363, 217
+  offset: 0, 0
+  index: -1
+khung-doi-ava
+  rotate: false
+  xy: 596, 2
+  size: 334, 167
+  orig: 334, 167
+  offset: 0, 0
+  index: -1
+khung-doi-ten
+  rotate: false
+  xy: 596, 171
+  size: 323, 81
+  orig: 323, 81
+  offset: 0, 0
+  index: -1
+nut-dang-nhap-fb
+  rotate: false
+  xy: 596, 254
+  size: 258, 91
+  orig: 258, 91
+  offset: 0, 0
+  index: -1
+nut-dang-nhap-fb-chon
+  rotate: false
+  xy: 596, 347
+  size: 258, 91
+  orig: 258, 91
+  offset: 0, 0
+  index: -1
+nut-dong-y2
+  rotate: false
+  xy: 367, 799
+  size: 210, 100
+  orig: 210, 100
+  offset: 0, 0
+  index: -1
+nut-dong-y1
+  rotate: false
+  xy: 367, 901
+  size: 210, 100
+  orig: 210, 100
+  offset: 0, 0
+  index: -1
+nut-cua-hang2
+  rotate: false
+  xy: 596, 440
+  size: 210, 100
+  orig: 210, 100
+  offset: 0, 0
+  index: -1
+nut-cua-hang
+  rotate: false
+  xy: 808, 440
+  size: 210, 100
+  orig: 210, 100
+  offset: 0, 0
+  index: -1
+dong-y
+  rotate: false
+  xy: 596, 542
+  size: 210, 100
+  orig: 210, 100
+  offset: 0, 0
+  index: -1
+dong-y-chon
+  rotate: false
+  xy: 808, 542
+  size: 210, 100
+  orig: 210, 100
+  offset: 0, 0
+  index: -1
+khung12
+  rotate: false
+  xy: 932, 2
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+su-dung-2
+  rotate: false
+  xy: 856, 254
+  size: 117, 56
+  orig: 117, 56
+  offset: 0, 0
+  index: -1
+su-dung-1
+  rotate: false
+  xy: 856, 347
+  size: 117, 56
+  orig: 117, 56
+  offset: 0, 0
+  index: -1
+nhan
+  rotate: false
+  xy: 932, 82
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+doi
+  rotate: false
+  xy: 921, 171
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+doi-2
+  rotate: false
+  xy: 596, 644
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+nut-tat
+  rotate: false
+  xy: 596, 712
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+nut-tat-chon
+  rotate: false
+  xy: 596, 781
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+chon
+  rotate: false
+  xy: 596, 850
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+
+setup2.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+khung-hom-do
+  rotate: false
+  xy: 2, 2
+  size: 592, 795
+  orig: 592, 795
+  offset: 0, 0
+  index: -1
+
+setup3.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+khung-cai-dat
+  rotate: false
+  xy: 2, 2
+  size: 592, 795
+  orig: 592, 795
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+cauvong1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cau vong9
+  rotate: false
+  xy: 2, 2
+  size: 534, 257
+  orig: 534, 257
+  offset: 0, 0
+  index: -1
+cau vong8
+  rotate: false
+  xy: 2, 261
+  size: 534, 257
+  orig: 534, 257
+  offset: 0, 0
+  index: -1
+cau vong7
+  rotate: false
+  xy: 2, 520
+  size: 534, 257
+  orig: 534, 257
+  offset: 0, 0
+  index: -1
+binh-nuoc
+  rotate: false
+  xy: 538, 520
+  size: 362, 291
+  orig: 362, 291
+  offset: 0, 0
+  index: -1
+giot-nuoc
+  rotate: false
+  xy: 538, 2
+  size: 54, 81
+  orig: 54, 81
+  offset: 0, 0
+  index: -1
+
+cauvong2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cau vong6
+  rotate: false
+  xy: 2, 2
+  size: 534, 257
+  orig: 534, 257
+  offset: 0, 0
+  index: -1
+cau vong5
+  rotate: false
+  xy: 2, 261
+  size: 534, 257
+  orig: 534, 257
+  offset: 0, 0
+  index: -1
+cau vong4
+  rotate: false
+  xy: 2, 520
+  size: 534, 257
+  orig: 534, 257
+  offset: 0, 0
+  index: -1
+
+cauvong3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cau vong3
+  rotate: false
+  xy: 2, 2
+  size: 534, 257
+  orig: 534, 257
+  offset: 0, 0
+  index: -1
+cau vong2
+  rotate: false
+  xy: 2, 261
+  size: 534, 257
+  orig: 534, 257
+  offset: 0, 0
+  index: -1
+cau vong10
+  rotate: false
+  xy: 2, 520
+  size: 534, 257
+  orig: 534, 257
+  offset: 0, 0
+  index: -1
+
+cauvong4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cau vong1
+  rotate: false
+  xy: 2, 2
+  size: 534, 257
+  orig: 534, 257
+  offset: 0, 0
+  index: -1
+cau vong0
+  rotate: false
+  xy: 2, 261
+  size: 534, 257
+  orig: 534, 257
+  offset: 0, 0
+  index: -1

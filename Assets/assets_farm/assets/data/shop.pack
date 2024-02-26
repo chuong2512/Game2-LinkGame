@@ -1,0 +1,246 @@
+
+shop1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+khung
+  rotate: false
+  xy: 2, 2
+  size: 638, 900
+  orig: 638, 900
+  offset: 0, 0
+  index: -1
+o-xu-shop
+  rotate: false
+  xy: 2, 904
+  size: 235, 99
+  orig: 235, 99
+  offset: 0, 0
+  index: -1
+o-ngoc-shop
+  rotate: false
+  xy: 239, 904
+  size: 235, 99
+  orig: 235, 99
+  offset: 0, 0
+  index: -1
+item4
+  rotate: false
+  xy: 476, 904
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+item3
+  rotate: false
+  xy: 642, 2
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+item2
+  rotate: false
+  xy: 747, 2
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+item1
+  rotate: false
+  xy: 852, 2
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+ava9
+  rotate: false
+  xy: 642, 114
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+ava8
+  rotate: false
+  xy: 747, 114
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+ava7
+  rotate: false
+  xy: 852, 114
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+ava6
+  rotate: false
+  xy: 642, 226
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+ava5
+  rotate: false
+  xy: 747, 226
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+ava4
+  rotate: false
+  xy: 852, 226
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+ava3
+  rotate: false
+  xy: 642, 338
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+ava2
+  rotate: false
+  xy: 747, 338
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+ava15
+  rotate: false
+  xy: 852, 338
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+ava14
+  rotate: false
+  xy: 642, 450
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+ava13
+  rotate: false
+  xy: 747, 450
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+ava12
+  rotate: false
+  xy: 852, 450
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+ava11
+  rotate: false
+  xy: 642, 562
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+ava10
+  rotate: false
+  xy: 747, 562
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+ava1
+  rotate: false
+  xy: 852, 562
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+ava0
+  rotate: false
+  xy: 642, 674
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+nut-vat-pham
+  rotate: false
+  xy: 747, 674
+  size: 162, 61
+  orig: 162, 61
+  offset: 0, 0
+  index: -1
+nut-vat-pham-chon
+  rotate: false
+  xy: 747, 737
+  size: 162, 61
+  orig: 162, 61
+  offset: 0, 0
+  index: -1
+nut-ava
+  rotate: false
+  xy: 747, 800
+  size: 162, 61
+  orig: 162, 61
+  offset: 0, 0
+  index: -1
+nut-ava-chon
+  rotate: false
+  xy: 747, 863
+  size: 162, 61
+  orig: 162, 61
+  offset: 0, 0
+  index: -1
+nut-mua
+  rotate: false
+  xy: 642, 786
+  size: 92, 77
+  orig: 92, 77
+  offset: 0, 0
+  index: -1
+nut-mua-chon
+  rotate: false
+  xy: 642, 865
+  size: 92, 77
+  orig: 92, 77
+  offset: 0, 0
+  index: -1
+
+shop2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+khung-vat-pham
+  rotate: false
+  xy: 2, 2
+  size: 548, 591
+  orig: 548, 591
+  offset: 0, 0
+  index: -1
+khung2
+  rotate: false
+  xy: 2, 595
+  size: 518, 155
+  orig: 518, 155
+  offset: 0, 0
+  index: -1
+khung-avaaa
+  rotate: false
+  xy: 2, 752
+  size: 521, 130
+  orig: 521, 130
+  offset: 0, 0
+  index: -1
+
+shop3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+khung-ava
+  rotate: false
+  xy: 2, 2
+  size: 548, 591
+  orig: 548, 591
+  offset: 0, 0
+  index: -1

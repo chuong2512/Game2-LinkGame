@@ -1,0 +1,101 @@
+
+khung tin nhan1.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+khung-tin-nhan
+  rotate: false
+  xy: 2, 2
+  size: 592, 795
+  orig: 592, 795
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 799
+  size: 440, 127
+  orig: 440, 127
+  offset: 0, 0
+  index: -1
+nut-xoa
+  rotate: false
+  xy: 2, 928
+  size: 170, 78
+  orig: 170, 78
+  offset: 0, 0
+  index: -1
+nut-xoa-2
+  rotate: false
+  xy: 174, 928
+  size: 170, 78
+  orig: 170, 78
+  offset: 0, 0
+  index: -1
+nut-dong
+  rotate: false
+  xy: 596, 2
+  size: 170, 78
+  orig: 170, 78
+  offset: 0, 0
+  index: -1
+nut-dong-2
+  rotate: false
+  xy: 768, 2
+  size: 170, 78
+  orig: 170, 78
+  offset: 0, 0
+  index: -1
+icon-qua-tang
+  rotate: false
+  xy: 444, 799
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: -1
+icon-he-thong
+  rotate: false
+  xy: 444, 909
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: -1
+nut-xem
+  rotate: false
+  xy: 346, 928
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+nut-xem-2
+  rotate: false
+  xy: 596, 82
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+nut-nhan
+  rotate: false
+  xy: 683, 82
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+nut-nhan-2
+  rotate: false
+  xy: 770, 82
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+
+khung tin nhan2.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+khung-mo-tin-nhan
+  rotate: false
+  xy: 2, 2
+  size: 479, 435
+  orig: 479, 435
+  offset: 0, 0
+  index: -1

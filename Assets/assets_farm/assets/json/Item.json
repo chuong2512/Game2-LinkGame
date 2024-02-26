@@ -1,0 +1,30 @@
+[
+	{
+		"id":"1",
+		"name":"mu",
+		"price":"9",
+		"typeprice":"1",
+		"description":"Ăn liên tiếp dâu tây sẽ có máy ủi thu hoạch hoa quả"
+	},
+	{
+		"id":"2",
+		"name":"lh",
+		"price":"11",
+		"typeprice":"1",
+		"description":"Ăn liên tiếp cà chua sẽ có lưỡi hái thu hoạch hoa quả" 
+	},
+	{
+		"id":"3",
+		"name":"bt",
+		"price":"10",
+		"typeprice":"1",
+		"description":"Thu hoạch tất cả cà rốt khi ăn liên tiếp cà tím"
+	},
+	{
+		"id":"4",
+		"name":"bn",
+		"price":"12",
+		"typeprice":"1",
+		"description":"Ăn liên tiếp 2 lần cà rốt sẽ có bù nhìn thu hoạch hoa quả"	
+	}
+]

@@ -1,0 +1,51 @@
+[
+	{
+		"id":"1",
+		"title":"Quà tặng hàng ngày",
+		"content":"Ngày thứ nhất, Bạn nhận được 500 gold từ FarmSaga. Chúc bạn một ngày mới vui vẻ!.",
+		"gold":"500",
+		"gem":"0"
+	},
+	{
+		"id":"2",
+		"title":"Quà tặng hàng ngày",
+		"content":"Ngày thứ hai, Bạn nhận được 1000 gold từ FarmSaga. Chúc bạn một ngày mới vui vẻ!.",
+		"gold":"1000",
+		"gem":"0"
+	},
+	{
+		"id":"3",
+		"title":"Quà tặng hàng ngày",
+		"content":"Ngày thứ ba, Bạn nhận được 1500 gold từ FarmSaga. Chúc bạn một ngày mới vui vẻ!.",
+		"gold":"1500",
+		"gem":"0"
+	},
+	{
+		"id":"4",
+		"title":"Quà tặng hàng ngày",
+		"content":"Ngày thứ tư, Bạn nhận được 2500 gold từ FarmSaga. Chúc bạn một ngày mới vui vẻ!.",
+		"gold":"2500",
+		"gem":"0"
+	},
+	{
+		"id":"5",
+		"title":"Quà tặng hàng ngày",
+		"content":"Ngày thứ năm, Bạn nhận được 4000 gold từ FarmSaga. Chúc bạn một ngày mới vui vẻ!.",
+		"gold":"4000",
+		"gem":"0"
+	},
+	{
+		"id":"6",
+		"title":"Quà tặng hàng ngày",
+		"content":"Ngày thứ sáu, Bạn nhận được 5000 gold từ FarmSaga. Chúc bạn một ngày mới vui vẻ!.",
+		"gold":"5000",
+		"gem":"0"
+	},
+	{
+		"id":"7",
+		"title":"Quà tặng hàng ngày",
+		"content":"Ngày thứ bảy, Bạn nhận được 6000 gold từ FarmSaga. Chúc bạn một ngày mới vui vẻ!.",
+		"gold":"6000",
+		"gem":"0"
+	}
+]

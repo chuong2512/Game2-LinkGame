@@ -1,0 +1,108 @@
+
+qua chinh sua1.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+tao
+  rotate: false
+  xy: 2, 2
+  size: 282, 470
+  orig: 282, 470
+  offset: 0, 0
+  index: -1
+ot
+  rotate: false
+  xy: 2, 474
+  size: 282, 470
+  orig: 282, 470
+  offset: 0, 0
+  index: -1
+ngo
+  rotate: false
+  xy: 286, 2
+  size: 282, 470
+  orig: 282, 470
+  offset: 0, 0
+  index: -1
+hanh-tim
+  rotate: false
+  xy: 570, 2
+  size: 282, 470
+  orig: 282, 470
+  offset: 0, 0
+  index: -1
+dua
+  rotate: false
+  xy: 286, 474
+  size: 282, 470
+  orig: 282, 470
+  offset: 0, 0
+  index: -1
+dau-tay
+  rotate: false
+  xy: 570, 474
+  size: 282, 470
+  orig: 282, 470
+  offset: 0, 0
+  index: -1
+
+qua chinh sua2.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+ca-tim
+  rotate: false
+  xy: 2, 2
+  size: 282, 470
+  orig: 282, 470
+  offset: 0, 0
+  index: -1
+ca-rot
+  rotate: false
+  xy: 2, 474
+  size: 282, 470
+  orig: 282, 470
+  offset: 0, 0
+  index: -1
+ca-chua
+  rotate: false
+  xy: 286, 2
+  size: 282, 470
+  orig: 282, 470
+  offset: 0, 0
+  index: -1
+bi-ngo
+  rotate: false
+  xy: 570, 2
+  size: 282, 470
+  orig: 282, 470
+  offset: 0, 0
+  index: -1
+tho-con
+  rotate: false
+  xy: 286, 474
+  size: 282, 188
+  orig: 282, 188
+  offset: 0, 0
+  index: -1
+mat-troi
+  rotate: false
+  xy: 286, 664
+  size: 282, 188
+  orig: 282, 188
+  offset: 0, 0
+  index: -1
+cun-con
+  rotate: false
+  xy: 570, 474
+  size: 282, 188
+  orig: 282, 188
+  offset: 0, 0
+  index: -1
+chim-se
+  rotate: false
+  xy: 570, 664
+  size: 282, 188
+  orig: 282, 188
+  offset: 0, 0
+  index: -1

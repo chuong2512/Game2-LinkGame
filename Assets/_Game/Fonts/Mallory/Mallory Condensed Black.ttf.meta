@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0109e31fc24dce24d999d9895e6a6876
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mallory Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b0b73f60ed95df84dabb780ce17bbfa9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

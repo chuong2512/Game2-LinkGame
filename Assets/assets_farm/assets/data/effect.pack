@@ -1,0 +1,40 @@
+
+effectGamePlay1.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+khung
+  rotate: false
+  xy: 2, 2
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+cheo-2
+  rotate: false
+  xy: 111, 2
+  size: 73, 81
+  orig: 73, 81
+  offset: 0, 0
+  index: -1
+cheo
+  rotate: false
+  xy: 186, 2
+  size: 69, 81
+  orig: 69, 81
+  offset: 0, 0
+  index: -1
+doc
+  rotate: false
+  xy: 111, 85
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+ngang
+  rotate: false
+  xy: 257, 2
+  size: 15, 41
+  orig: 15, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 28903400775e67b419d700da747bf747
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mallory Narrow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 14aebac06dde459479e4e5a309bf7524, type: 3}
+  - {fileID: 12800000, guid: 53d6402ad4d19ed4585e3f970bff9b56, type: 3}
+  - {fileID: 12800000, guid: 206d892a3e561a6479959d66d8e63dc1, type: 3}
+  - {fileID: 12800000, guid: 569458a3468627345b9f8d2a0c9dfaf3, type: 3}
+  - {fileID: 12800000, guid: 251a0d0598f94db4ea540e42d3b13746, type: 3}
+  - {fileID: 12800000, guid: e70149e587d62254ab31015bfd610e86, type: 3}
+  - {fileID: 12800000, guid: 615e405a68d6f7247a704dd8b93023bc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

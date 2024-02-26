@@ -1,0 +1,68 @@
+
+khung ngoc1.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+khung-thong-tin
+  rotate: false
+  xy: 2, 2
+  size: 495, 558
+  orig: 495, 558
+  offset: 0, 0
+  index: -1
+khung-doi-vang
+  rotate: false
+  xy: 499, 2
+  size: 438, 493
+  orig: 438, 493
+  offset: 0, 0
+  index: -1
+khung-doi-tien
+  rotate: false
+  xy: 499, 497
+  size: 438, 493
+  orig: 438, 493
+  offset: 0, 0
+  index: -1
+khung-ngoc
+  rotate: false
+  xy: 2, 562
+  size: 163, 82
+  orig: 163, 82
+  offset: 0, 0
+  index: -1
+hop-qua
+  rotate: false
+  xy: 2, 646
+  size: 86, 93
+  orig: 86, 93
+  offset: 0, 0
+  index: -1
+doi
+  rotate: false
+  xy: 167, 562
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1
+doi-2
+  rotate: false
+  xy: 249, 562
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1
+nap-2
+  rotate: false
+  xy: 331, 562
+  size: 81, 53
+  orig: 81, 53
+  offset: 0, 0
+  index: -1
+nap-1
+  rotate: false
+  xy: 414, 562
+  size: 81, 53
+  orig: 81, 53
+  offset: 0, 0
+  index: -1
