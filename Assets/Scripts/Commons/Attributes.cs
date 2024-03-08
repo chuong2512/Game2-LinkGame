@@ -7,6 +7,8 @@ using System.Xml;
 using System.Xml.Serialization;
 using System.Text;
 using CGArt.Utils;
+using Sirenix.OdinInspector;
+
 public class Attributes : MonoBehaviour
 {
 	public static int isPlayed = PlayerPrefs.GetInt(Strings.DATA_IS_PLAYED, 0);
@@ -69,7 +71,7 @@ public class Attributes : MonoBehaviour
 		else
 			return true;
 	}
-
+	
     public static void AddGold(int amount)
     {
         currentGold += amount;

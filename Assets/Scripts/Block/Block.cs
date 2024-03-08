@@ -86,31 +86,29 @@ public abstract class Block : MonoBehaviour
 
     void Update()
     {
-        if (isMoving)
+        if (!isMoving) return;
+        velocity = gravity * Time.deltaTime;
+        Vector3 currentPosition = transform.position;
+
+        if (currentPosition.y <= direction.y)
         {
-            velocity = gravity * Time.deltaTime;
-            Vector3 currentPosition = transform.position;
-
-            if (currentPosition.y <= direction.y)
-            {
-                currentPosition.y = direction.y;
-                gravity = 0;
-                velocity = 0;
-                transform.position = currentPosition;
-                direction = Vector3.zero;
-                ++numHandled;
-                if (numHandled == numBlock)
-                {
-					GameManager.instance.SetGameState(GameState.PLAYING);
-                    Notify();
-                }
-                isMoving = false;
-                return;
-            }
-
-            currentPosition.y -= gravity;
+            currentPosition.y = direction.y;
+            gravity = 0;
+            velocity = 0;
             transform.position = currentPosition;
+            direction = Vector3.zero;
+            ++numHandled;
+            if (numHandled == numBlock)
+            {
+                GameManager.instance.SetGameState(GameState.PLAYING);
+                Notify();
+            }
+            isMoving = false;
+            return;
         }
+
+        currentPosition.y -= gravity;
+        transform.position = currentPosition;
     }
 
     public bool IsSameType(Block block)

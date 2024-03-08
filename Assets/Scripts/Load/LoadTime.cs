@@ -33,7 +33,7 @@ public class LoadTime : MonoBehaviour {
 	// Load 60s
 	void Update () {
 
-		timeText.text = "" + timeOver;
+		timeText.text = TimeConvert.GetTimeText(timeOver);
 		if (GameManager.instance.gameState == GameState.PLAYING && GameManager.instance.timeScale > 0) 
 		{
 			gameObject.SetActive(true);
@@ -83,4 +83,19 @@ public class LoadTime : MonoBehaviour {
 			timePlay = timeOver;
 	}
 
+}
+
+public static class TimeConvert
+{
+	public static string GetTimeText(int second)
+	{
+		var minutes = second / 60;
+		var remainingSeconds = second % 60;
+		return $"{minutes:D2}:{remainingSeconds:D2}";
+	}
+	
+	public static string GetTimeText(float second)
+	{
+		return GetTimeText((int)second);
+	}
 }
