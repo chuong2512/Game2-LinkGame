@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using Sirenix.OdinInspector;
 
 public class ItemEffect :MonoBehaviour, BlockObserver{
 
@@ -13,6 +14,35 @@ public class ItemEffect :MonoBehaviour, BlockObserver{
 		instance = this;
 	}
 
+#if UNITY_EDITOR
+	[Button]
+	private void LoadItem(int id)
+	{
+		switch(id) {
+			case 1:
+				item = CarController.instance;
+				type = BlockType.Strawberry;
+				break;
+			case 2: //binh tuoi
+				type = BlockType.Purpleonion;
+				item = Bottle.instance;
+				break;
+			case 3://luoi hai
+				type = BlockType.Tomato;
+				item = Scythe.instance;
+				break;
+			case 4: //bu nhin rom
+				type = BlockType.Sun;
+				item = Scaresrow.instance;
+				break;
+			default:
+				item = null;
+				break;
+		}
+		Execute();
+	}
+#endif
+	
 	public  void LoadItem() {
 		int id = Attributes.selectedItem;
 

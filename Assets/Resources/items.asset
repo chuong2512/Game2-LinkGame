@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -16,24 +17,24 @@ MonoBehaviour:
     name: Excavator
     description: Harvesting strawberry twice time in sequence will get the Excavator.
     gem: 2
-    sprite: {fileID: 21300006, guid: c3d3e85f35e9eeb42a3df551678e5fbe, type: 3}
+    sprite: {fileID: 21300000, guid: 055d1f38cf5782848a9e2cbcf7f553e8, type: 3}
   - id: 2
     name: Watering-can
     description: Harvesting onions twice time in sequence will get the watering-can.
     gem: 2
-    sprite: {fileID: 21300000, guid: c3d3e85f35e9eeb42a3df551678e5fbe, type: 3}
+    sprite: {fileID: 21300000, guid: 1d503ab12188a1643b2859747300db06, type: 3}
   - id: 3
     name: Sickle
     description: Harvesting the tomato twice time in sequence will get the sickle.
     gem: 3
-    sprite: {fileID: 21300004, guid: c3d3e85f35e9eeb42a3df551678e5fbe, type: 3}
+    sprite: {fileID: 21300000, guid: ecc2204e3dd86d7409c10ec60d43a9f5, type: 3}
   - id: 4
     name: Dummy
     description: Harvest faster with helping from dummy.
     gem: 4
-    sprite: {fileID: 21300002, guid: c3d3e85f35e9eeb42a3df551678e5fbe, type: 3}
+    sprite: {fileID: 21300000, guid: 0ec47f38e5cfc5847bc15c7c34a3819d, type: 3}
   - id: 5
     name: 0
     description: Buy items to archive higher score.
     gem: 0
-    sprite: {fileID: 21300000, guid: 161f82424fdb15d47aa7f7e03655613e, type: 3}
+    sprite: {fileID: 21300000, guid: 09256f9abbea03148855764f4e4e8d66, type: 3}

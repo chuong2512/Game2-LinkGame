@@ -95,7 +95,7 @@ MonoBehaviour:
   itemImg: {fileID: 11481938}
   txtDescription: {fileID: 7111873135465364786}
   txtGem: {fileID: 4232735748179122425}
-  purchaseButton: {fileID: 0}
+  purchaseButton: {fileID: 5567851339419750059}
 --- !u!1 &146994
 GameObject:
   m_ObjectHideFlags: 0
@@ -161,7 +161,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: cee9778d25169e244abbaa8c559834ca, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5d2c629835bee5d4ea06a969b461b1f0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -338,8 +338,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
+      - m_Target: {fileID: 11458912}
+        m_TargetAssemblyTypeName: ShopItemEntry, Assembly-CSharp
         m_MethodName: Buy
         m_Mode: 1
         m_Arguments:
