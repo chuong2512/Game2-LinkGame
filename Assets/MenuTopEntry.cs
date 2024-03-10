@@ -16,10 +16,11 @@ public class MenuTopEntry : MonoBehaviour {
 	{
 		txtLevel.text = t.GetLevel().ToString();
 		txtScore.text = t.GetHighScore().ToString();
-		txtMedal.text = t.GetMedal ().ToString ();
+		var medal = t.GetMedal();
+		txtMedal.text = medal.ToString ();
 		int i = Random.Range (0, 12);
 		avatarImg.sprite = avr.avatars[i].sprite;
-		medalImg.sprite = top.medal [1];
+		medalImg.sprite = LoadMedal(medal);
 		backGround.sprite = top.backgroud [1];
 	}
 	public void LoadMe(UserInfo me)
@@ -27,8 +28,19 @@ public class MenuTopEntry : MonoBehaviour {
 		txtLevel.text = me.GetLevel().ToString();
 		txtScore.text = me.GetHighScore().ToString();
 		avatarImg.sprite = avr.GetAvatarById (Attributes.selectedAvatar).sprite;
-		medalImg.sprite = top.medal [0];
-		txtMedal.text = "";
+		medalImg.sprite = LoadMedal(me.medal);
+		txtMedal.text = me.medal.ToString();
 		backGround.sprite = top.backgroud [0];
+	}
+
+	public Sprite LoadMedal(int topMedal)
+	{
+		if (topMedal > 3)
+		{
+			txtMedal.gameObject.SetActive(true);
+			return top.medal[3];
+		}
+		txtMedal.gameObject.SetActive(false);
+		return top.medal[topMedal - 1];
 	}
 }

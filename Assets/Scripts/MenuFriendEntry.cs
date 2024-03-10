@@ -30,7 +30,7 @@ public class MenuFriendEntry : MonoBehaviour {
 		txtMedal.text = t.GetMedal ().ToString ();
 		int i = Random.Range (0, 12);
 		avatarImg.sprite = avr.avatars[i].sprite;
-		medalImg.sprite = top.medal [1];
+		medalImg.sprite = LoadMedal(t.GetMedal());
 		backGround.sprite = top.backgroud [2];
 	}
 	public void LoadMe(UserInfo me)
@@ -42,8 +42,8 @@ public class MenuFriendEntry : MonoBehaviour {
 		//FacebookController.instance.QueryScores ();
 
 		avatarImg.sprite = avr.GetAvatarById (Attributes.selectedAvatar).sprite;
-		medalImg.sprite = top.medal [0];
-		txtMedal.text = "";
+		medalImg.sprite = LoadMedal(1);
+		txtMedal.text = me.medal.ToString();
 		backGround.sprite = top.backgroud [0];
 	}
 
@@ -60,5 +60,16 @@ public class MenuFriendEntry : MonoBehaviour {
 	{
 		Debug.Log ("Scores callback: " + result.RawResult);
 		txtScore.text = result.RawResult;
+	}
+	
+	public Sprite LoadMedal(int topMedal)
+	{
+		if (topMedal > 3)
+		{
+			txtMedal.gameObject.SetActive(true);
+			return top.medal[3];
+		}
+		txtMedal.gameObject.SetActive(false);
+		return top.medal[topMedal - 1];
 	}
 }

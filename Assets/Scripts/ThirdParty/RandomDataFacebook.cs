@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
+[DefaultExecutionOrder(-999)]
 public class RandomDataFacebook : MonoBehaviour {
 
 	public static RandomDataFacebook instance;

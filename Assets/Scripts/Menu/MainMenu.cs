@@ -23,16 +23,6 @@ public class MainMenu : MonoBehaviour
 
     void Start()
     {
-        if (firstTimePlaying)
-        {
-            firstTimePlaying = false;
-            OnFirstTimePlay();
-        }
-        else
-        {
-            startObject.SetActive(false);
-        }
-
         settings.onCloseAction = () => { social.Open(); }; // Open social menu when close setting menu
         inventory.onCloseAction = () => { social.Open(); };
         shop.onCloseAction = () => { social.Open(); };
@@ -56,19 +46,6 @@ public class MainMenu : MonoBehaviour
                 startObject.SetActive(true);
             }
         }
-    }
-
-    /// <summary>
-    /// Preserve
-    /// </summary>
-    void OnFirstTimePlay()
-    {
-        startObject.SetActive(true);
-    }
-
-    public void HideSplash()
-    {
-        startObject.SetActive(false);
     }
 
     public void OpenSocial()
