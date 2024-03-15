@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using Sirenix.OdinInspector;
 
 public class UIController : MonoBehaviour
 {
@@ -22,7 +23,8 @@ public class UIController : MonoBehaviour
         resultPopup.onCloseEvent = () => { LoadingScreen.Load(Scenes.MAIN_MENU); };
         highScorePopup.onCloseEvent = () => { LoadingScreen.Load(Scenes.MAIN_MENU); };
     }
-
+    
+    [Button]
     public void ShowResult(int score = 0, int gold = 0, int exp = 0)
     {
         HUDController.instance.gameObject.SetActive(false);

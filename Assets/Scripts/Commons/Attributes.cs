@@ -194,7 +194,7 @@ public class Attributes : MonoBehaviour
     //Check levelup
     public static bool CheckLevelUp(int totalExp)
     {
-        if (totalExp < TotalExpToLevelUp())
+	    if (totalExp < TotalExpToLevelUp())
             return false;
         return true;
     }
