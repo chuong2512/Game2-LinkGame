@@ -16,6 +16,20 @@ namespace SimpleToggle
             }
         }
 
+        public void ActiveToggle(int i)
+        {
+            if (i >= toggles.Count) return;
+            for (var index = 0; index < toggles.Count; index++)
+            {
+                if (index == i)
+                {
+                    toggles[i].IsOn = true;
+                    continue;
+                }
+                toggles[index].IsOn = false;
+            }
+        }
+
         public void NotifyToggleOn(SimpleToggle toggle)
         {
             for (var index = 0; index < toggles.Count; index++)

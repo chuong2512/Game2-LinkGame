@@ -41,12 +41,17 @@ namespace SimpleToggle
             OnClick();
         }
 
-        private void OnClick()
+        public void Active()
         {
-            if (isOn) return;
             IsOn = true;
             // ReSharper disable once Unity.NoNullPropagation
             _toggleGroup?.NotifyToggleOn(this);
+        }
+
+        public void OnClick()
+        {
+            if (isOn) return;
+            Active();
         }
     }
 
