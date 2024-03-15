@@ -9459,8 +9459,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 1.5000916, y: 7.349201}
-  m_SizeDelta: {x: -109.1166, y: -51.4968}
+  m_AnchoredPosition: {x: 4.9845886, y: 7.349201}
+  m_SizeDelta: {x: -84.2274, y: -51.4968}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1779895410
 MonoBehaviour:
@@ -9486,7 +9486,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: ec6604fe24942b743ba81dd5b7ab3328, type: 3}
     m_FontSize: 30
     m_FontStyle: 1
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 3
     m_MaxSize: 41
     m_Alignment: 4
@@ -9495,7 +9495,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Buy new item
+  m_Text: Mining PINK diamond twice time in sequence will get the Sword of King Arthur.
 --- !u!222 &1779895411
 CanvasRenderer:
   m_ObjectHideFlags: 0

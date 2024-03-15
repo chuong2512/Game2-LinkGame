@@ -14,24 +14,26 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   items:
   - id: 1
-    name: Excavator
-    description: Harvesting strawberry twice time in sequence will get the Excavator.
-    gem: 2
-    sprite: {fileID: 21300000, guid: 055d1f38cf5782848a9e2cbcf7f553e8, type: 3}
-  - id: 2
-    name: Watering-can
-    description: Harvesting onions twice time in sequence will get the watering-can.
-    gem: 2
+    name: Excalibur Sword
+    description: Mining PINK diamond twice time in sequence will get the Sword of
+      King Arthur.
+    gem: 3
     sprite: {fileID: 21300000, guid: 1d503ab12188a1643b2859747300db06, type: 3}
-  - id: 3
-    name: Sickle
-    description: Harvesting the tomato twice time in sequence will get the sickle.
+  - id: 2
+    name: Talaria Shoes
+    description: Mining BLACK diamond twice time in sequence will get the Hermes's
+      shoes.
     gem: 3
     sprite: {fileID: 21300000, guid: ecc2204e3dd86d7409c10ec60d43a9f5, type: 3}
-  - id: 4
-    name: Dummy
-    description: Harvest faster with helping from dummy.
+  - id: 3
+    name: Pickaxe
+    description: Mining the GREEN diamond twice time in sequence will get the Pickaxe.
     gem: 4
+    sprite: {fileID: 21300000, guid: 055d1f38cf5782848a9e2cbcf7f553e8, type: 3}
+  - id: 4
+    name: Targo Shield
+    description: Mining faster with helping from power of Targo Shield.
+    gem: 5
     sprite: {fileID: 21300000, guid: 0ec47f38e5cfc5847bc15c7c34a3819d, type: 3}
   - id: 5
     name: 0
