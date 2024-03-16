@@ -141,7 +141,7 @@ MonoBehaviour:
       exludeBlock: 0
   - id: 10
     name: Nami
-    description: Start match with 3 special fruits
+    description: Start match with 3 special diamonds
     gold: 400
     gem: 0
     timeeffect: 0
@@ -155,7 +155,7 @@ MonoBehaviour:
       exludeBlock: 0
   - id: 11
     name: Rin
-    description: Start match with one lesser fruit.
+    description: Start match with one lesser diamonds.
     gold: 230
     gem: 0
     timeeffect: 0
@@ -169,7 +169,7 @@ MonoBehaviour:
       exludeBlock: 1
   - id: 12
     name: Robin
-    description: Start match with one lesser fruit.
+    description: Start match with one lesser diamonds.
     gold: 350
     gem: 0
     timeeffect: 0

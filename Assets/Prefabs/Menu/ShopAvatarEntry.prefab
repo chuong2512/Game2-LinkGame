@@ -35,8 +35,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -2.8632, y: 5.5}
-  m_SizeDelta: {x: 229.2736, y: 76.228}
+  m_AnchoredPosition: {x: -9.5958, y: 5.5}
+  m_SizeDelta: {x: 230.62, y: 76.228}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &22275500
 CanvasRenderer:
@@ -79,7 +79,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: fasdfasdfd
+  m_Text: Start match with one lesser diamonds.
 --- !u!114 &11492706
 MonoBehaviour:
   m_ObjectHideFlags: 0
