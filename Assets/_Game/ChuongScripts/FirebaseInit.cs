@@ -6,17 +6,17 @@ public class FirebaseInit : PersistentSingleton<FirebaseInit>
     // Start is called before the first frame update
     void Start()
     {
-        LogFirebase(() => { Firebase.Analytics.FirebaseAnalytics.LogEvent("Enter Game", $"LoginGame", 1); });
+        /*LogFirebase(() => { Firebase.Analytics.FirebaseAnalytics.LogEvent("Enter Game", $"LoginGame", 1); });*/
     }
 
     public void Log(string name, string para, int value)
     {
-        LogFirebase(() => { Firebase.Analytics.FirebaseAnalytics.LogEvent(name, para, value); });
+        /*LogFirebase(() => { Firebase.Analytics.FirebaseAnalytics.LogEvent(name, para, value); });*/
     }
 
     public void LogFirebase(Action action)
     {
-        Firebase.FirebaseApp.CheckAndFixDependenciesAsync().ContinueWith(task =>
+        /*Firebase.FirebaseApp.CheckAndFixDependenciesAsync().ContinueWith(task =>
         {
             var dependencyStatus = task.Result;
             if (dependencyStatus == Firebase.DependencyStatus.Available)
@@ -34,6 +34,6 @@ public class FirebaseInit : PersistentSingleton<FirebaseInit>
                     "Could not resolve all Firebase dependencies: {0}", dependencyStatus));
                 // Firebase Unity SDK is not safe to use here.
             }
-        });
+        });*/
     }
 }
