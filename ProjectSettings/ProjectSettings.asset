@@ -158,7 +158,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: vn.sunnet.FarmSaga
+    Android: com.DiamondCompany.DiamondLink
     Standalone: unity.WAO.Farm Link
     VisionOS: vn.sunnet.FarmSaga
     iPhone: vn.sunnet.FarmSaga
