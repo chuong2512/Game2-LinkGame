@@ -67,9 +67,4 @@ public class SettingController : MonoBehaviour
         vibrateToggle.isOn = (Attributes.vibrate == Attributes.IS_ON);
         notificationToggle.isOn = (Attributes.notification == Attributes.IS_ON);
     }
-
-    public void LoginFacebook()
-    {
-        FacebookController.instance.Login();
-    }
 }

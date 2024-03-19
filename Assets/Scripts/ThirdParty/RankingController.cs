@@ -8,17 +8,12 @@ public class RankingController : MonoBehaviour {
         get
         {
             if (_instance == null) _instance = new RankingController();
-            if (FacebookController.instance == null)
-            {
-                GameObject facebook = new GameObject("Facebook");
-                FacebookController.instance = facebook.AddComponent<FacebookController>();
-            }
             return _instance;
         }
     }
-
+    
     public void ReportScore(int score)
     {
-        FacebookController.instance.PostScore(score);
+        return;
     }
 }

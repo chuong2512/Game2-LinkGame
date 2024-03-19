@@ -2330,7 +2330,7 @@ MonoBehaviour:
   avatars: {fileID: 11400000, guid: 66ba1e9fdd23a654bb8b38e5d0811ac5, type: 2}
   topContainer: {fileID: 1260129009}
   menuTop: {fileID: 144652, guid: 662df1231152b4d4e908512d2e4825d9, type: 3}
-  random: {fileID: 1737243065}
+  random: {fileID: 0}
 --- !u!1 &361613154
 GameObject:
   m_ObjectHideFlags: 0
@@ -11435,9 +11435,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bgm: {fileID: 362325046}
   sfx: {fileID: 1240464337}
-  startOver: {fileID: 0}
-  blockSound: {fileID: 0}
-  loopSound: {fileID: 0}
+  startOver: {fileID: 1240464337}
+  blockSound: {fileID: 1240464337}
+  loopSound: {fileID: 1240464337}
   sfxs:
   - name: 0
     sound: {fileID: 8300000, guid: 93ac5ad69853d124290dbef08ffccc37, type: 3}
@@ -13536,90 +13536,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1736839121}
   m_CullTransparentMesh: 1
---- !u!1 &1737243062
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1737243064}
-  - component: {fileID: 1737243063}
-  - component: {fileID: 1737243066}
-  - component: {fileID: 1737243065}
-  - component: {fileID: 1737243067}
-  m_Layer: 0
-  m_Name: Facebook
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1737243063
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1737243062}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 859b495a3ae1733499462edd48f1ede5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!4 &1737243064
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1737243062}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1737243065
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1737243062}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a9c38df25bfcde74184f6002969f3b59, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  isConnection: 0
---- !u!114 &1737243066
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1737243062}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ccf6518efd9f16428b5ad89cf5f12bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1737243067
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1737243062}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 64fb5356a5aaefd4caefbf3ea0555bbe, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1777557144
 GameObject:
   m_ObjectHideFlags: 0
@@ -14743,7 +14659,7 @@ MonoBehaviour:
   avatars: {fileID: 11400000, guid: 66ba1e9fdd23a654bb8b38e5d0811ac5, type: 2}
   topContainer: {fileID: 1182798143}
   menuTop: {fileID: 170180, guid: c3439535f745c004bbf3ac48ae11e84f, type: 3}
-  random: {fileID: 1737243065}
+  random: {fileID: 0}
 --- !u!1 &1946282085
 GameObject:
   m_ObjectHideFlags: 0
@@ -16127,4 +16043,3 @@ SceneRoots:
   - {fileID: 497708522}
   - {fileID: 950854266}
   - {fileID: 138293412}
-  - {fileID: 1737243064}

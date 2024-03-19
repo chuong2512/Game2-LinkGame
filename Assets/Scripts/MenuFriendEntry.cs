@@ -1,7 +1,5 @@
 ﻿using UnityEngine;
-using System.Collections;
 using UnityEngine.UI;
-using Facebook.Unity;
 
 public class MenuFriendEntry : MonoBehaviour {
 
@@ -48,20 +46,9 @@ public class MenuFriendEntry : MonoBehaviour {
 	}
 
 	public void QueryScores(){
-		if(FacebookController.instance.IsLoggedIn() && RandomDataFacebook.instance.isConnection)
-			FB.API("/app/scores?fields=score,user.limit(30)", HttpMethod.GET, ScoresCallback);
-		else{
-			Debug.Log("Nhu cut: " + FacebookController.instance.IsLoggedIn());
-			txtScore.text = Attributes.GetHighScore().ToString();
-		}
+		txtScore.text = Attributes.GetHighScore().ToString();
 	}
-	
-	private void ScoresCallback(IResult result)
-	{
-		Debug.Log ("Scores callback: " + result.RawResult);
-		txtScore.text = result.RawResult;
-	}
-	
+
 	public Sprite LoadMedal(int topMedal)
 	{
 		if (topMedal > 3)
