@@ -33,8 +33,6 @@ public class RandomDataFacebook : MonoBehaviour {
 	}
 	
 	public List<UserInfo> RandomData(){
-		if (isConnection)
-			return null;
 		List<UserInfo> list = new List<UserInfo>();
 		//Sinh du lieu nho hon
 		int medal = 0;

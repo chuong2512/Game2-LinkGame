@@ -19,6 +19,7 @@ public class ToastManager : Singleton<ToastManager>
 
     public void ShowToast(string toastMessage, Color colorMessage, float duration = 0.4f, float interval = 0.4f)
     {
+        return;
         _tmpToast.text = (toastMessage);
         _tmpToast.color = colorMessage;
 
