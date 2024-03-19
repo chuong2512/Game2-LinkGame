@@ -16,7 +16,7 @@ public class RandomDataFacebook : MonoBehaviour {
 
 	void Start () {
 		listUserInfo = new List<UserInfo>();
-		isConnection = ConnectInternet.IsInternetConnection () && Attributes.IsLogginFacebook ();
+		isConnection = false;
 		if (!isConnection) {
 			meInfo = GetMeInfo ();
 			listUserInfo = RandomData();
